@@ -1,0 +1,15 @@
+/home/deepinside/code/oncleanar/EventsMan.Application/bin/Debug/net7.0/EventsMan.Application.deps.json
+/home/deepinside/code/oncleanar/EventsMan.Application/bin/Debug/net7.0/EventsMan.Application.dll
+/home/deepinside/code/oncleanar/EventsMan.Application/bin/Debug/net7.0/EventsMan.Application.pdb
+/home/deepinside/code/oncleanar/EventsMan.Application/bin/Debug/net7.0/EventsMan.Domain.dll
+/home/deepinside/code/oncleanar/EventsMan.Application/bin/Debug/net7.0/EventsMan.Domain.pdb
+/home/deepinside/code/oncleanar/EventsMan.Application/obj/Debug/net7.0/EventsMan.Application.csproj.AssemblyReference.cache
+/home/deepinside/code/oncleanar/EventsMan.Application/obj/Debug/net7.0/EventsMan.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/deepinside/code/oncleanar/EventsMan.Application/obj/Debug/net7.0/EventsMan.Application.AssemblyInfoInputs.cache
+/home/deepinside/code/oncleanar/EventsMan.Application/obj/Debug/net7.0/EventsMan.Application.AssemblyInfo.cs
+/home/deepinside/code/oncleanar/EventsMan.Application/obj/Debug/net7.0/EventsMan.Application.csproj.CoreCompileInputs.cache
+/home/deepinside/code/oncleanar/EventsMan.Application/obj/Debug/net7.0/EventsMan.Application.csproj.CopyComplete
+/home/deepinside/code/oncleanar/EventsMan.Application/obj/Debug/net7.0/EventsMan.Application.dll
+/home/deepinside/code/oncleanar/EventsMan.Application/obj/Debug/net7.0/refint/EventsMan.Application.dll
+/home/deepinside/code/oncleanar/EventsMan.Application/obj/Debug/net7.0/EventsMan.Application.pdb
+/home/deepinside/code/oncleanar/EventsMan.Application/obj/Debug/net7.0/ref/EventsMan.Application.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WeUPwIxd7NIkemPf5Sy5d1nRe4TF4nXZ5i3VMhQMI4wRbZjhs8F6w7Whcu5MfgKFW43U26NmwsUVh1Z8Xyd/sg==",
+  "success": true,
+  "projectFilePath": "/home/deepinside/code/oncleanar/EventsMan.Domain/EventsMan.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/deepinside/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "/home/deepinside/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
